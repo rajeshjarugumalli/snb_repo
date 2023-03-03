@@ -1,5 +1,2 @@
-hello welcome{
-            } a=10
-b-20
-
-end 
+hello welcome .java
+hello java script
