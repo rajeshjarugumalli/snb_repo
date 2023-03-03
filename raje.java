@@ -3,3 +3,6 @@ hello welcome{
 b-20
 
 end 
+java is created 
+when java script is ready
+java point is jbc
