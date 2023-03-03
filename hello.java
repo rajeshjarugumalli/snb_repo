@@ -1,6 +1,3 @@
-welcome 
-{
-}
-hello everyone 
-till wel come 
-hello .java
+hi 
+hello
+how are you
